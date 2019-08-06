@@ -1,0 +1,15 @@
+Eliminar: Solo cualilativo:
+PoolQC          1453 -x
+MiscFeature     1406 -x
+Alley           1369 -x
+Fence           1179 -x
+FireplaceQu      690 -x
+LotFrontage      259 -x
+
+OverallQual
+GrLivArea
+GarageCars
+GarageArea
+TotalBsmtSF
+1stFirSF
+FullBath
